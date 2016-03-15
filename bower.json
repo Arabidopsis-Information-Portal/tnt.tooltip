@@ -1,0 +1,25 @@
+{
+  "name": "tnt.tooltip",
+  "description": "Tooltip library for TnT",
+  "main": "build/tnt.tooltip.min.js",
+  "version": "0.1.0",
+  "authors": [
+    "Miguel Pignatelli"
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "tnt",
+    "tooltip",
+    "javascript"
+  ],
+  "homepage": "https://github.com/tntvis/tnt.tooltip",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
